@@ -82,7 +82,7 @@ En el archivo `package.json` se incluyen los siguientes scripts:
 
 ## 📷 Capturas de pantalla
 
-![Capturas de pantalla](assets/incio.png)
+![Capturas de pantalla](assets/inicio.png)
 ![Capturas de pantalla](assets/servicio.png)
 ![Capturas de pantalla](assets/nosotros.png)
 ![Capturas de pantalla](assets/contacto.png)
