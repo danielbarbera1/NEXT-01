@@ -1,6 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {},
+  webpack: (config) => {
+    return config;
+  },
+  experimental: {
+    turboMode: false, // Deshabilitar Turbopack temporalmente
+  },
 };
 
 export default nextConfig;
